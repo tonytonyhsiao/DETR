@@ -14,7 +14,8 @@ Key points:
 * Object Queries: DETR introduces a set of learnable positional embeddings called "object queries" that are used by the decoder to predict the bounding boxes and classes for each potential object in the image.
 
 
-![detection]https://github.com/tonytonyhsiao/DETR/blob/main/cats.png)
+![detection](https://github.com/tonytonyhsiao/DETR/blob/main/cats.png)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
